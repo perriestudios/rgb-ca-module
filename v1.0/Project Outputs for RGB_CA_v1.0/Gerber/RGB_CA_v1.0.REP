@@ -2,22 +2,13 @@
 FileName = RGB_CA_v1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : RGB_CA_v1.0.GTS
+Generating : Keep-Out Layer
+      File : RGB_CA_v1.0.GKO
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
 *************************************************************
 
 *************************************************************
@@ -29,56 +20,6 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D19
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : RGB_CA_v1.0.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D19
-    D20
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : RGB_CA_v1.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : RGB_CA_v1.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D26
-    D27
 *************************************************************
 
 *************************************************************
@@ -95,6 +36,37 @@ Generating : Bottom Paste
 Used DCodes :
     D24
     D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RGB_CA_v1.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RGB_CA_v1.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -117,6 +89,25 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : RGB_CA_v1.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D26
+    D27
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : RGB_CA_v1.0.GTP
 
@@ -130,5 +121,24 @@ Generating : Top Paste
 Used DCodes :
     D12
     D13
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : RGB_CA_v1.0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
